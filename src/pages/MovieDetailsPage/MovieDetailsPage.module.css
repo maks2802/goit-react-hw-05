@@ -1,0 +1,29 @@
+.box {
+  padding: 20px;
+}
+
+.title,
+.subtitle {
+  margin-top: 10px;
+  color: black;
+}
+
+.btn {
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+.list {
+  display: flex;
+  gap: 20px;
+  padding: 10px;
+}

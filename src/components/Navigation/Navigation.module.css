@@ -1,0 +1,19 @@
+.nav {
+  display: flex;
+  gap: 20px;
+  padding: 10px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.link {
+  color: #141313;
+  font-weight: bold;
+  font-size: 22px;
+  text-decoration: none;
+}
+
+.active {
+  color: rgb(39, 114, 9);
+  text-decoration: underline;
+}
